@@ -1,0 +1,5 @@
+LIBRARY	"JOYHID"
+
+EXPORTS 
+	HIDDeviceAttach
+	HIDDeviceNotifications
